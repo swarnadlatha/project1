@@ -1,0 +1,7 @@
+class github
+{
+public static void main(string[] args)
+{
+system.out.println("welcome project");
+}
+}
